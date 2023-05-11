@@ -113,25 +113,6 @@ There's been some changes to the API with version 13 of the plugin. This documen
 For proper subscription support, you need a receipt validation server. You can
 implement your own or use [Iaptic's receipt validation service](https://www.iaptic.com).
 
-# Contribute
-
-### Contributors:
-
- * ![](https://avatars1.githubusercontent.com/u/191881?s=64&v=4) [Jean-Christophe Hoelt](https://github.com/j3k0), Author
- * ![](https://avatars3.githubusercontent.com/u/1674289?s=64&v=4) [Josef Fröhle](https://github.com/Dexus), Support
- * Guillaume Charhon, (now defunct) v1 for android
- * Matt Kane, initial iOS code
- * Mohammad Naghavi, original unification attempt
- * Dave Alden [@dpa99c](https://github.com/dpa99c) (Apple-hosted IAPs for iOS)
-
-## Sponsors
-
- * <a href="https://fovea.cc"><img alt="Logo Fovea" src="https://fovea.cc/blog/wp-content/uploads/2017/09/fovea-logo-flat-128.png" height="50" /></a><br/>For sponsoring most of JC's work on the plugin.
- * <img alt="Logo Ionic" src="https://www.fovea.cc/files/Ionic-logo-landscape.png" height="50"><br/>Ionic Framework Team (http://ionicframework.com/)
- * <a href="https://www.simplan.de/"><img alt="Logo SimPlan" src="https://files.fovea.cc/wp-content/uploads/SimPlan-Logo.png" height="50"></a><br/>For sponsoring the UWP platform.
- * Maxwell C. Moore ([MCM Consulting, LLC](http://mcmconsulting.biz))
- * Justin Noel [@calendee](https://github.com/calendee)
- * [Those guys](https://www.indiegogo.com/projects/phonegap-cordova-in-app-purchase-ios-and-android#pledges)
 
 
 
